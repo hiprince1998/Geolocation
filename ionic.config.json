@@ -2,5 +2,7 @@
   "name": "Geolocation",
   "app_id": "3c369148",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
